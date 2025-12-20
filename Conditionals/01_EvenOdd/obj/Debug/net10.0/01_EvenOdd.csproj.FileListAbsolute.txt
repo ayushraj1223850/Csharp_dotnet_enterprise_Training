@@ -1,0 +1,14 @@
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\bin\Debug\net10.0\01_EvenOdd.exe
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\bin\Debug\net10.0\01_EvenOdd.deps.json
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\bin\Debug\net10.0\01_EvenOdd.runtimeconfig.json
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\bin\Debug\net10.0\01_EvenOdd.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\bin\Debug\net10.0\01_EvenOdd.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.AssemblyInfoInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.AssemblyInfo.cs
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\refint\01_EvenOdd.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\01_EvenOdd.genruntimeconfig.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\01_EvenOdd\obj\Debug\net10.0\ref\01_EvenOdd.dll

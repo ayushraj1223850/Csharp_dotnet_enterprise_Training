@@ -1,0 +1,14 @@
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\bin\Debug\net10.0\05_Quadratic.exe
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\bin\Debug\net10.0\05_Quadratic.deps.json
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\bin\Debug\net10.0\05_Quadratic.runtimeconfig.json
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\bin\Debug\net10.0\05_Quadratic.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\bin\Debug\net10.0\05_Quadratic.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.AssemblyInfoInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.AssemblyInfo.cs
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\refint\05_Quadratic.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\05_Quadratic.genruntimeconfig.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\05_Quadratic\obj\Debug\net10.0\ref\05_Quadratic.dll

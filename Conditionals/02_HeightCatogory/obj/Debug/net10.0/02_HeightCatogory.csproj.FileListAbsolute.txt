@@ -1,0 +1,14 @@
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\bin\Debug\net10.0\02_HeightCatogory.exe
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\bin\Debug\net10.0\02_HeightCatogory.deps.json
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\bin\Debug\net10.0\02_HeightCatogory.runtimeconfig.json
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\bin\Debug\net10.0\02_HeightCatogory.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\bin\Debug\net10.0\02_HeightCatogory.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.AssemblyInfoInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.AssemblyInfo.cs
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.csproj.CoreCompileInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\refint\02_HeightCatogory.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\02_HeightCatogory.genruntimeconfig.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\02_HeightCatogory\obj\Debug\net10.0\ref\02_HeightCatogory.dll

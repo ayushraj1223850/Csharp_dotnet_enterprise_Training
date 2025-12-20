@@ -1,0 +1,14 @@
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\bin\Debug\net10.0\03_LargestOfThree.exe
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\bin\Debug\net10.0\03_LargestOfThree.deps.json
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\bin\Debug\net10.0\03_LargestOfThree.runtimeconfig.json
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\bin\Debug\net10.0\03_LargestOfThree.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\bin\Debug\net10.0\03_LargestOfThree.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.AssemblyInfoInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.AssemblyInfo.cs
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\refint\03_LargestOfThree.dll
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.pdb
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\03_LargestOfThree.genruntimeconfig.cache
+C:\Users\Ayush Raj\Desktop\c#Practice\03_LargestOfThree\obj\Debug\net10.0\ref\03_LargestOfThree.dll
