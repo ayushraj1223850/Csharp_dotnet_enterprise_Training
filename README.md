@@ -1,116 +1,57 @@
-# \# Csharp\_dotnet\_enterprise\_Training
+# Csharp_dotnet_enterprise_Training
 
-# 
+This repository contains C# practice exercises organized into categories. Click on the links below to navigate to specific questions for easy checking.
 
-# This repository contains C# practice exercises organized into categories. Click on the links below to navigate to specific questions for easy checking.
+## Folder Structure
 
-# 
+### Conditionals
+- [01_EvenOdd](Conditionals/01_EvenOdd/Program.cs)
+- [02_HeightCatogory](Conditionals/02_HeightCatogory/Program.cs)
+- [03_LargestOfThree](Conditionals/03_LargestOfThree/Program.cs)
+- [04_LeapYear](Conditionals/04_LeapYear/Program.cs)
+- [05_Quadratic](Conditionals/05_Quadratic/Program.cs)
+- [06_AdmissionEligibility](Conditionals/06_AdmissionEligibility/Program.cs)
+- [07_ElectricityBill](Conditionals/07_ElectricityBill/Program.cs)
+- [08_VowelConsonant](Conditionals/08_VowelConsonant/Program.cs)
+- [09_TriangleType](Conditionals/09_TriangleType/Program.cs)
+- [10_QuadrantFinder](Conditionals/10_QuadrantFinder/Program.cs)
+- [11_GradeDescription](Conditionals/11_GradeDescription/Program.cs)
+- [12_ValidDate](Conditionals/12_ValidDate/Program.cs)
+- [13_ATMWithdrawal](Conditionals/13_ATMWithdrawal/Program.cs)
+- [14_ProfitLoss](Conditionals/14_ProfitLoss/Program.cs)
+- [15_RockPaperScissors](Conditionals/15_RockPaperScissors/Program.cs)
+- [16_SimpleCalculator](Conditionals/16_SimpleCalculator/Program.cs)
 
-# \## Folder Structure
+### ExceptionHandling
+- [BankingWithdrawalValidation](ExceptionHandling/BankingWithdrawalValidation/Program.cs)
+- [EmployeeBonusProcessing](ExceptionHandling/EmployeeBonusProcessing/Program.cs)
+- [FileReadingwithResourceSafety](ExceptionHandling/FileReadingwithResourceSafety/Program.cs)
 
-# 
+### genericsAndCollection
+- [FactoryRobotHazardAnalyzer](genericsAndCollection/FactoryRobotHazardAnalyzer/Program.cs)
+- [FlipKey](genericsAndCollection/FlipKey/Program.cs)
+- [NunitTestCase](genericsAndCollection/NunitTestCase/Program.cs)
+- [StreamBuzz](genericsAndCollection/StreamBuzz/Program.cs)
 
-# \### Conditionals
+### Loops
+- [17_FibonacciSeries](Loops/17_FibonacciSeries/Program.cs)
+- [18_PrimeNumber](Loops/18_PrimeNumber/Program.cs)
+- [19_ArmstrongNumber](Loops/19_ArmstrongNumber/Program.cs)
+- [20_ReverseAndPalindrome](Loops/20_ReverseAndPalindrome/Program.cs)
+- [21_GCD_LCM](Loops/21_GCD_LCM/Program.cs)
+- [22_PascalsTriangle](Loops/22_PascalsTriangle/Program.cs)
+- [23_BinaryToDecimal](Loops/23_BinaryToDecimal/Program.cs)
+- [24_DiamondPattern](Loops/24_DiamondPattern/Program.cs)
+- [25_FactorialLarge](Loops/25_FactorialLarge/Program.cs)
+- [26_GuessingGame](Loops/26_GuessingGame/Program.cs)
+- [27_DigitalRoot](Loops/27_DigitalRoot/Program.cs)
+- [28_ContinueUsage](Loops/28_ContinueUsage/Program.cs)
+- [29_MenuSystem](Loops/29_MenuSystem/Program.cs)
+- [30_StrongNumber](Loops/30_StrongNumber/Program.cs)
+- [31_SearchWithGoto](Loops/31_SearchWithGoto/Program.cs)
 
-# \- \[01\_EvenOdd](Conditionals/01\_EvenOdd/Program.cs)
-
-# \- \[02\_HeightCatogory](Conditionals/02\_HeightCatogory/Program.cs)
-
-# \- \[03\_LargestOfThree](Conditionals/03\_LargestOfThree/Program.cs)
-
-# \- \[04\_LeapYear](Conditionals/04\_LeapYear/Program.cs)
-
-# \- \[05\_Quadratic](Conditionals/05\_Quadratic/Program.cs)
-
-# \- \[06\_AdmissionEligibility](Conditionals/06\_AdmissionEligibility/Program.cs)
-
-# \- \[07\_ElectricityBill](Conditionals/07\_ElectricityBill/Program.cs)
-
-# \- \[08\_VowelConsonant](Conditionals/08\_VowelConsonant/Program.cs)
-
-# \- \[09\_TriangleType](Conditionals/09\_TriangleType/Program.cs)
-
-# \- \[10\_QuadrantFinder](Conditionals/10\_QuadrantFinder/Program.cs)
-
-# \- \[11\_GradeDescription](Conditionals/11\_GradeDescription/Program.cs)
-
-# \- \[12\_ValidDate](Conditionals/12\_ValidDate/Program.cs)
-
-# \- \[13\_ATMWithdrawal](Conditionals/13\_ATMWithdrawal/Program.cs)
-
-# \- \[14\_ProfitLoss](Conditionals/14\_ProfitLoss/Program.cs)
-
-# \- \[15\_RockPaperScissors](Conditionals/15\_RockPaperScissors/Program.cs)
-
-# \- \[16\_SimpleCalculator](Conditionals/16\_SimpleCalculator/Program.cs)
-
-# 
-
-# \### ExceptionHandling
-
-# \- \[BankingWithdrawalValidation](ExceptionHandling/BankingWithdrawalValidation/Program.cs)
-
-# \- \[EmployeeBonusProcessing](ExceptionHandling/EmployeeBonusProcessing/Program.cs)
-
-# \- \[FileReadingwithResourceSafety](ExceptionHandling/FileReadingwithResourceSafety/Program.cs)
-
-# 
-
-# \### genericsAndCollection
-
-# \- \[FactoryRobotHazardAnalyzer](genericsAndCollection/FactoryRobotHazardAnalyzer/Program.cs)
-
-# \- \[FlipKey](genericsAndCollection/FlipKey/Program.cs)
-
-# \- \[NunitTestCase](genericsAndCollection/NunitTestCase/Program.cs)
-
-# \- \[StreamBuzz](genericsAndCollection/StreamBuzz/Program.cs)
-
-# 
-
-# \### Loops
-
-# \- \[17\_FibonacciSeries](Loops/17\_FibonacciSeries/Program.cs)
-
-# \- \[18\_PrimeNumber](Loops/18\_PrimeNumber/Program.cs)
-
-# \- \[19\_ArmstrongNumber](Loops/19\_ArmstrongNumber/Program.cs)
-
-# \- \[20\_ReverseAndPalindrome](Loops/20\_ReverseAndPalindrome/Program.cs)
-
-# \- \[21\_GCD\_LCM](Loops/21\_GCD\_LCM/Program.cs)
-
-# \- \[22\_PascalsTriangle](Loops/22\_PascalsTriangle/Program.cs)
-
-# \- \[23\_BinaryToDecimal](Loops/23\_BinaryToDecimal/Program.cs)
-
-# \- \[24\_DiamondPattern](Loops/24\_DiamondPattern/Program.cs)
-
-# \- \[25\_FactorialLarge](Loops/25\_FactorialLarge/Program.cs)
-
-# \- \[26\_GuessingGame](Loops/26\_GuessingGame/Program.cs)
-
-# \- \[27\_DigitalRoot](Loops/27\_DigitalRoot/Program.cs)
-
-# \- \[28\_ContinueUsage](Loops/28\_ContinueUsage/Program.cs)
-
-# \- \[29\_MenuSystem](Loops/29\_MenuSystem/Program.cs)
-
-# \- \[30\_StrongNumber](Loops/30\_StrongNumber/Program.cs)
-
-# \- \[31\_SearchWithGoto](Loops/31\_SearchWithGoto/Program.cs)
-
-# 
-
-# \### string
-
-# \- \[NameCompatibility](string/NameCompatibility.cs)
-
-# \- \[PasswordGenerator](string/PasswordGenerator.cs)
-
-# \- \[Program](string/Program.cs)
-
-# \- \[WordWand](string/WordWand.cs)
-
-
-
+### string
+- [NameCompatibility](string/NameCompatibility.cs)
+- [PasswordGenerator](string/PasswordGenerator.cs)
+- [Program](string/Program.cs)
+- [WordWand](string/WordWand.cs)
